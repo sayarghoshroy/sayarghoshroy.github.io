@@ -1,9 +1,9 @@
 ---
 title: 
 feature_text: |
-  ### Hi! I am Sayar, a CS undergrad from [IIIT-H](https://www.iiit.ac.in/)
+  ### Hi! I am Sayar, a CS undergrad at [IIIT-H](https://www.iiit.ac.in/)
   #### You can access some of my projects and a few created resources here
-excerpt: "Hi! I am Sayar, a CS undergrad from [IIIT-H](https://www.iiit.ac.in/). You can access some of my projects and a few created resources here."
+excerpt: "Hi! I am Sayar, a CS undergrad at [IIIT-H](https://www.iiit.ac.in/). You can access some of my projects and a few created resources here."
 layout: page
 aside: true
 ---
