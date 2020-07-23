@@ -7,6 +7,8 @@ layout: page
 aside: true
 ---
 
+###### <br>
+
 ## Selected Projects <br>
 
 #### Natural Language Processing <br>
