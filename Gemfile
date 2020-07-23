@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gemspec
+
 # Make sure Jekyll 3.3 is running
 gem "github-pages", group: :jekyll_plugins
 
