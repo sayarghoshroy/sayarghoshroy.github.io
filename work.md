@@ -1,9 +1,10 @@
 ---
-title:
+title: 
 feature_text: |
   ### Selected Projects and Created Resources
 feature_image: ""
 excerpt: "..."
+layout: page
 aside: true
 ---
 
