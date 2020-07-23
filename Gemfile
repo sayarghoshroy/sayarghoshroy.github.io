@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-gemspec
-
 # Make sure Jekyll 3.3 is running
 gem "github-pages", group: :jekyll_plugins
 
@@ -15,3 +13,5 @@ group :jekyll_plugins do
     gem "jekyll-redirect-from"
     gem "jemoji"
 end
+
+# gemspec
