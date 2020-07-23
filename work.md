@@ -2,8 +2,7 @@
 title: 
 feature_text: |
   ### Selected Projects and Created Resources
-feature_image: ""
-excerpt: "..."
+excerpt: "Selected Projects and Created Resources"
 layout: page
 aside: true
 ---
