@@ -1,12 +1,10 @@
-## A small webpage with some selected projects and resources
+## Little Website with Personal Introduction and a Projects Showcase
 
-#### You can access some of my projects and created resources here
+Powered by [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/), built upon the [Alembic](https://github.com/daviddarnes/alembic) theme.
 
 The website is hosted [here](https://sayarghoshroy.github.io/).
 
 ---
-
-The site was built using Jekyll upon the theme [Alembic](https://github.com/daviddarnes/alembic).
 
 My design features a landing page, a projects showcase page and a tab to hold your resume.
 
@@ -26,7 +24,7 @@ bundle install
 1. Open `Gemfile` in a text editor
 2. Uncomment line 17 i.e add `gemspec`
 3. In line 4, modify `github-pages` to `jekyll-remote-theme`
-4. Build using `bundle`
+4. Run the commands above to build with `bundle`
 5. Fire up the terminal and run: `bundle exec jekyll serve`
 
 ---
