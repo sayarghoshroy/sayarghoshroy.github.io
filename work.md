@@ -40,7 +40,7 @@ aside: true
 #### Computer Vision <br>
 
 - [<b>Manifold Learning</b>](https://github.com/sayarghoshroy/Manifold_Learning) \| python • scikit-learn
-> <p style="align: justify">Manifold Visualization using MDS, LLE, & Isomap with Image Classification Techniques on CIFAR-10 post Implementation of various Manifold Learning Techniques including LLE, MDS, and ISOMAP on three kinds of datasets</p>
+> <p style="align: justify">Illustration of various Spectral Clustering Techniques + Manifold Visualization schemes such as MDS, LLE, & Isomap; with applications including dimensionality reduction and Image Classification on CIFAR10</p>
 
 - [<b>Image classification formulations</b>](https://github.com/sayarghoshroy/Image-Classification-Formulations) \| python • scikit-learn • TensorFlow
 > <p style="align: justify">Performance of various deep learning architectures for face recognition and miscellaneous image classification tasks: insights and analysis</p>
@@ -121,15 +121,15 @@ aside: true
 ## Created Resources <br>
 
 - [<b>Introduction to Deep Learning Tutorial</b>](https://github.com/sayarghoshroy/Intro_to_DL_tutorial)
-> <p style="align: justify">Material for Intro to DL Tutorials, Summer 2020</p>
+> <p style="align: justify">In Summer 2020, I tutored four sessions for prospective researchers joining the Language Technologies Research Centre</p>
 
 - [<b>Linguistics Mine</b>](https://github.com/sayarghoshroy/Linguistics_Mine)
-> <p style="align: justify">Collection of Solved Assignments from courses related to Linguistics</p>
+> <p style="align: justify">Collection of Solved Assignments from various courses related to Linguistics taken at IIIT-H</p>
 
 - [<b>Neural and Cognitive Modelling Coursework</b>](https://github.com/sayarghoshroy/Neural_and_Cognitive_Modelling)
-> <p style="align: justify">Experiments and write-ups from the course, ‘Intro to Neural and Cognitive Modeling’</p>
+> <p style="align: justify">Multiple experiments and write-ups from the course, ‘Intro to Neural and Cognitive Modeling’</p>
 
 - [<b>Probabilistic Graphical Models Coursework</b>](https://github.com/sayarghoshroy/Probabilistic_Graphical_Models_Coursework)
-> <p style="align: justify">Solved problems on core machine learning and a mathematical project on VC Dimension</p>
+> <p style="align: justify">A set of solved problems on core machine learning & Gaussian Mixture Models (GMM) and a mathematical project on bounds for VC Dimensions</p>
 
 ---
