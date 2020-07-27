@@ -116,6 +116,14 @@ aside: true
 - [<b>Green Lawn Surfers</b>](https://github.com/sayarghoshroy/Green_Lawn_Surfers) \| javascript • webGL
 > <p style="align: justify">Subway Surfers but on a lawn & with Angry Birds</p>
 
+#### Web Development <br>
+
+- [<b>Project Showcase</b>](https://github.com/sayarghoshroy/sayarghoshroy.github.io)  \| jekyll • css • html
+> <p style="align: justify">Little website theme featuring personal introduction & a projects showcase powered by [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/), built upon [Alembic](https://github.com/daviddarnes/alembic)</p>
+
+- [<b>Retro Portfolio</b>](https://github.com/sayarghoshroy/Retro-Portfolio) \| javascript • css • html
+> <p style="align: justify">A portfolio website theme with a retro feel built purely out of HTML, CSS and Javascript without the use of any framework</p>
+
 ---
 
 ## Created Resources <br>
