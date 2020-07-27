@@ -119,7 +119,7 @@ aside: true
 #### Web Development <br>
 
 - [<b>Project Showcase</b>](https://github.com/sayarghoshroy/sayarghoshroy.github.io)  \| jekyll • css • html
-> <p style="align: justify">Little website theme featuring personal introduction & a projects showcase powered by [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/), built upon [Alembic](https://github.com/daviddarnes/alembic)</p>
+> <p style="align: justify">Little website theme featuring personal introduction & a projects showcase powered by Jekyll and Github Pages, built upon Alembic</p>
 
 - [<b>Retro Portfolio</b>](https://github.com/sayarghoshroy/Retro-Portfolio) \| javascript • css • html
 > <p style="align: justify">A portfolio website theme with a retro feel built purely out of HTML, CSS and Javascript without the use of any framework</p>
