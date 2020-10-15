@@ -9,9 +9,9 @@ aside: true
 
 ###### <br>
 
-## Selected Projects <br>
+## Selected Projects <br><br>
 
-#### Natural Language Processing <br>
+#### Natural Language Processing <br><br>
 
 - [<b>Acronym Sense Disambiguator</b>](https://github.com/sayarghoshroy/Acronym-Sense-Disambiguator) \| python • nltk
 > <p style="align: justify">Identifies acronyms in a text file and disambiguates possible expansions, where a guided disambiguator module runs queries on an indexed Wikipedia dump</p>
@@ -28,16 +28,22 @@ aside: true
 - [<b>English ⟶ Bengali NMT</b>](https://github.com/sayarghoshroy/Neural_Machine_Translation) \| python • PyTorch
 > <p style="align: justify">Supervised neural MT system for English ⟶ Bengali using a seq2seq encoder-decoder architecture with an attention mechanism</p>
 
+- [<b>Wikisearch</b>](https://github.com/sayarghoshroy/wikisearch) \| python • xml-sax
+> <p style="align: justify">A Search Engine for the Wikipedia Dump built from scratch </p>
+
 - [<b>Brill's Tagger Illustration</b>](https://github.com/sayarghoshroy/Brill-Tagger-Illustration) \| python
 > <p style="align: justify">An Implementation of a Modular Brill's Tagger with Analysis on Formulation of Disambiguation Schemes</p>
 
 - [<b>English ⟶ Hindi SMT</b>](https://github.com/sayarghoshroy/Statistical-Machine-Translation) \| python
 > <p style="align: justify">Statistical MT system for English ⟶ Hindi utilizing IBM models and an HMM formulation for relative token alignment</p>
 
+- [<b>LexiNER</b>](https://github.com/sayarghoshroy/LexiNER) \| python
+> <p style="align: justify">A simple Named Entity Recognition procedure for Bengali purely based on Lexical Rules </p>
+
 - [<b>Bengali Anaphora Resolution Challenges</b>](https://github.com/sayarghoshroy/Bengali_Anaphora_Resolution_Challenges) \| python
 > <p style="align: justify">Outline of a Rule Based Anaphora Resolution System for Bengali with granular performance analysis</p>
 
-#### Computer Vision <br>
+#### Computer Vision <br><br>
 
 - [<b>Manifold Learning</b>](https://github.com/sayarghoshroy/Manifold_Learning) \| python • scikit-learn
 > <p style="align: justify">Illustration of various Spectral Clustering Techniques + Manifold Visualization schemes such as MDS, LLE, & Isomap; with applications including dimensionality reduction and Image Classification on CIFAR10</p>
@@ -48,7 +54,7 @@ aside: true
 - [<b>Multiclass Classification using Logistic Regression</b>](https://github.com/sayarghoshroy/Multiclass_Classification) \| python • scikit-learn
 > <p style="align: justify">Study of different styles of classification schemes including a set of one-vs-rest classifiers, and binary classifiers with majority-voting for the task of Image Classification</p>
 
-#### Machine Learning Fundamentals <br>
+#### Machine Learning Fundamentals <br><br>
 
 - [<b>COVID-19 modeling for India</b>](https://github.com/sayarghoshroy/COVID-19_Modelling_for_India) \| python • scipy
 > <p style="align: justify">Modeling the Coronavirus Statistics for India using the Susceptible-Infected-Recovered (SIR) Model</p>
@@ -62,7 +68,7 @@ aside: true
 - [<b>Inside Cross Val</b>](https://github.com/sayarghoshroy/Inside_Cross_Val) \| python • scikit-learn
 > <p style="align: justify">Insights into how the error varies with change in K while performing k-fold Cross Validation</p>
 
-#### Core Deep Learning <br>
+#### Core Deep Learning <br><br>
 
 - [<b>Time Series Prediction using Recurrent Neural Networks</b>](https://github.com/sayarghoshroy/Recurrent_NN_Modelling) \| python • PyTorch
 > <p style="align: justify">Formulations for an auto regressive model and a moving average model using LSTMs and a base model with non-recurrent single-layer perceptron</p>
@@ -70,12 +76,12 @@ aside: true
 - [<b>Optimization and Learning</b>](https://github.com/sayarghoshroy/Optimization_and_Learning) \| python • scikit-learn
 > <p style="align: justify">From-scratch implementation of various optimization techniques such as Adam Optimizer, Nesterov's Accelerated GD, Polyak's Learn Rate, Newton's Method, Rprop, and Quickprop: Tested out on classification & regression tasks. Bonus: An illustration of the usefulness of Data Normalization</p>
 
-#### Optimization Methods <br>
+#### Optimization Methods <br><br>
 
 - [<b>Linear Programming Problems</b>](https://github.com/sayarghoshroy/Linear-Programming-Problems) \| python • cvxpy
 > <p style="align: justify">Formulations and Solutions to a set of Problems using Linear Programming Paradigms</p>
 
-#### Principles of Programming Languages <br>
+#### Principles of Programming Languages <br><br>
 
 - [<b>Functional Interpreter</b>](https://github.com/sayarghoshroy/Functional_Interpreter) \| haskell
 > <p style="align: justify">Interpreter for a Functional Arithmetic Language with support for assignments and stores</p>
@@ -83,23 +89,23 @@ aside: true
 - [<b>Functional Programming in Racket</b>](https://github.com/sayarghoshroy/Functional_Programming_in_Racket) \| racket
 > <p style="align: justify">Functional Programming constructs on Lists, & Trees and an Interpreter for the simple Arithmetic Language</p>
 
-#### Operating Systems <br>
+#### Operating Systems <br><br>
 
 - [<b>C shell</b>](https://github.com/sayarghoshroy/C-Shell) \| c
 > <p style="align: justify">From scratch implementation of a user-defined interactive shell program similar to a bash shell capable of creating and managing new processes</p>
 
 
-#### Artificial Intelligence <br>
+#### Artificial Intelligence <br><br>
 
 - [<b>Markov Decision Process</b>](https://github.com/sayarghoshroy/Markov-Decision-Process) \| python
 > <p style="align: justify">Computes utility map of states in a described grid world after every step of the Value Iteration algorithm till convergence and experiments with various discount factors and step costs</p>
 
-#### Computer Networks <br>
+#### Computer Networks <br><br>
 
 - [<b>File Server Lite</b>](https://github.com/sayarghoshroy/File-Server-Lite) \| c
 > <p style="align: justify">Basic file server and client using socket connections</p>
 
-#### Game Design <br>
+#### Game Design <br><br>
 
 - [<b>Mario on Terminal</b>](https://github.com/sayarghoshroy/Mario-on-Terminal)  \| python
 > <p style="align: justify">Simple version of the popular Mario game playable on your terminal</p>
@@ -116,7 +122,7 @@ aside: true
 - [<b>Green Lawn Surfers</b>](https://github.com/sayarghoshroy/Green_Lawn_Surfers) \| javascript • webGL
 > <p style="align: justify">Subway Surfers but on a lawn & with Angry Birds</p>
 
-#### Web Development <br>
+#### Web Development <br><br>
 
 - [<b>Project Showcase</b>](https://github.com/sayarghoshroy/sayarghoshroy.github.io)  \| jekyll • css • html
 > <p style="align: justify">Little website theme featuring personal introduction & a projects showcase powered by Jekyll and Github Pages, built upon Alembic</p>
@@ -126,7 +132,7 @@ aside: true
 
 ---
 
-## Created Resources <br>
+## Created Resources <br><br>
 
 - [<b>Introduction to Deep Learning Tutorial</b>](https://github.com/sayarghoshroy/Intro_to_DL_tutorial)
 > <p style="align: justify">In Summer 2020, I tutored four sessions for prospective researchers joining the Language Technologies Research Centre</p>

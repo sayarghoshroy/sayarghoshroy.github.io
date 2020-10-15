@@ -8,17 +8,21 @@ layout: page
 aside: true
 ---
 
-##### I am pursuing <br>
+##### I am pursuing <br><br>
 
 >  •  a Bachelor of Technology (Honors) in Computer Science <br>
 >  •  a Master of Science (by Research) in Computational Linguistics
 
 ##### I am an Undergraduate Researcher
 
-###### @ Information Retrieval and Extraction Lab (iREL) <br>
+###### @ Information Retrieval and Extraction Lab (iREL) <br><br>
 
->  •  Guided by Prof. Vasudeva Varma and Dr. Manish Gupta <br>
->  •  Currently working on Automatic Text Summarization, Fact Salience, and Scientific Discourse Analysis
+>  •  Guided by Prof. Vasudeva Varma and Dr. Manish Gupta <br><br>
+>  •  Currently topics of interest: <br><br>
+>   → Automatic Text Summarization <br>
+>   → Scientific Discourse Analysis <br>
+>   → Fact Salience <br>
+>   → Hate Speech Detection
 
 You can find my resume right [here]({{ site.url }}/assets/Sayar_Resume.pdf).
 

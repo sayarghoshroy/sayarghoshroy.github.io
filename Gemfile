@@ -5,6 +5,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # The plugins for the site
 group :jekyll_plugins do
+	gem "kramdown-parser-gfm"
     gem 'jekyll-feed'
     gem "jekyll-sitemap"
     gem "jekyll-mentions"
