@@ -94,6 +94,9 @@ aside: true
 - [<b>C shell</b>](https://github.com/sayarghoshroy/C-Shell) \| c
 > <p style="align: justify">From scratch implementation of a user-defined interactive shell program similar to a bash shell capable of creating and managing new processes</p>
 
+- [<b>Proc-Sync</b>](https://github.com/sayarghoshroy/Proc-Sync) \| c
+> <p style="align: justify">Applications of Process Synchronization in Simulating real-life situations</p>
+
 
 #### Artificial Intelligence <br><br>
 
