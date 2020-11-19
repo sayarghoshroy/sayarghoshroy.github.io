@@ -13,6 +13,9 @@ aside: true
 
 #### Natural Language Processing <br><br>
 
+- [<b>hater-baiter</b>](https://github.com/sayarghoshroy/hater-baiter) \| python • pytorch • spacy
+> <p style="align: justify">A structure-based hate speech detection system</p>
+
 - [<b>Acronym Sense Disambiguator</b>](https://github.com/sayarghoshroy/Acronym-Sense-Disambiguator) \| python • nltk
 > <p style="align: justify">Identifies acronyms in a text file and disambiguates possible expansions, where a guided disambiguator module runs queries on an indexed Wikipedia dump</p>
 
