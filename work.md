@@ -155,4 +155,7 @@ aside: true
 - [<b>Probabilistic Graphical Models Coursework</b>](https://github.com/sayarghoshroy/Probabilistic_Graphical_Models_Coursework)
 > <p style="align: justify">A set of solved problems on core machine learning & Gaussian Mixture Models (GMM) and a mathematical project on bounds for VC Dimensions</p>
 
+- [<b>Intro to Philosophy Coursework</b>](https://github.com/sayarghoshroy/phil_resources)
+> <p style="align: justify">Lecture Notes, Solved Assignments, and more from Introduction to Philosophy, 2020</p>
+
 ---
