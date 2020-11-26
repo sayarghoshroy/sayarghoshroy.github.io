@@ -158,4 +158,7 @@ aside: true
 - [<b>Intro to Philosophy Coursework</b>](https://github.com/sayarghoshroy/phil_resources)
 > <p style="align: justify">Lecture Notes, Solved Assignments, and more from Introduction to Philosophy, 2020</p>
 
+- [<b>Data Systems Coursework</b>](https://github.com/sayarghoshroy/datasys)
+> <p style="align: justify">Created solutions to group assignments and exercises from the Data Systems course.</p>
+
 ---
