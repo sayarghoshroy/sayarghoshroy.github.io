@@ -62,7 +62,7 @@ aside: true
 - [<b>COVID-19 modeling for India</b>](https://github.com/sayarghoshroy/COVID-19_Modelling_for_India) \| python • scipy
 > <p style="align: justify">Modeling the Coronavirus Statistics for India using the Susceptible-Infected-Recovered (SIR) Model</p>
 
-- [<b>relevance-paradox</b>](https://github.com/sayarghoshroy/relevance-paradox) \| python • scipy
+- [<b>relevance-paradox</b>](https://github.com/sayarghoshroy/relevance-paradox) \| python • spacy
 > <p style="align: justify">Analyzing trends, Demonstrating Simpson's, Berkson's, and Lord's Paradox in real world Natural Language Data</p>
 
 - [<b>Approaches to Principal Component Analysis</b>](https://github.com/sayarghoshroy/PCA-Approaches) \| python
