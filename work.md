@@ -13,6 +13,9 @@ aside: true
 
 #### Natural Language Processing <br><br>
 
+- [<b>Multilingual Hate Speech Detection</b>](https://github.com/sayarghoshroy/Hate-Speech-Detection) \| python • pytorch
+> <p style="align: justify">Code for the paper 'Leveraging Multilingual Transformers for Hate Speech Detection'</p>
+
 - [<b>Hater-Baiter</b>](https://github.com/sayarghoshroy/hater-baiter) \| python • pytorch • spacy
 > <p style="align: justify">A hate speech detection system which leverages linearized sentence structures in addition to textual information</p>
 
