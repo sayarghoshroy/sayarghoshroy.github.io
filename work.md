@@ -16,9 +16,6 @@ aside: true
 - [<b>Multilingual Hate Speech Detection</b>](https://github.com/sayarghoshroy/Hate-Speech-Detection) \| python • pytorch
 > <p style="align: justify">Code for the paper 'Leveraging Multilingual Transformers for Hate Speech Detection'</p>
 
-- [<b>Hater-Baiter</b>](https://github.com/sayarghoshroy/hater-baiter) \| python • pytorch • spacy
-> <p style="align: justify">A hate speech detection system which leverages linearized sentence structures in addition to textual information</p>
-
 - [<b>Acronym Sense Disambiguator</b>](https://github.com/sayarghoshroy/Acronym-Sense-Disambiguator) \| python • nltk
 > <p style="align: justify">Identifies acronyms in a text file and disambiguates possible expansions, where a guided disambiguator module runs queries on an indexed Wikipedia dump</p>
 
