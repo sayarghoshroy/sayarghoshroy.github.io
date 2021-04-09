@@ -13,8 +13,11 @@ aside: true
 
 #### Natural Language Processing <br><br>
 
+- [<b>Summaformers</b>](https://github.com/sayarghoshroy/Summaformers) \| python • pytorch
+> <p style="align: justify">Code for our paper 'Summaformers @ LaySumm 20, LongSumm 20' at EMNLP 2020, Scholarly Document Processing Workshop'</p>
+
 - [<b>Multilingual Hate Speech Detection</b>](https://github.com/sayarghoshroy/Hate-Speech-Detection) \| python • pytorch
-> <p style="align: justify">Code for the paper 'Leveraging Multilingual Transformers for Hate Speech Detection'</p>
+> <p style="align: justify">Code for our paper 'Leveraging Multilingual Transformers for Hate Speech Detection' at FIRE 2020</p>
 
 - [<b>Acronym Sense Disambiguator</b>](https://github.com/sayarghoshroy/Acronym-Sense-Disambiguator) \| python • nltk
 > <p style="align: justify">Identifies acronyms in a text file and disambiguates possible expansions, where a guided disambiguator module runs queries on an indexed Wikipedia dump</p>
