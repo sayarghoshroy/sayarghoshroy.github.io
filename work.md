@@ -65,6 +65,9 @@ aside: true
 - [<b>COVID-19 modeling for India</b>](https://github.com/sayarghoshroy/COVID-19_Modelling_for_India) \| python • scipy
 > <p style="align: justify">Modeling the Coronavirus Statistics for India using the Susceptible-Infected-Recovered (SIR) Model</p>
 
+- [<b>LDA Demonstration</b>](https://github.com/sayarghoshroy/LDA-Demonstration) \| python • scipy • scikit-learn
+> <p style="align: justify">Linear Discriminant Analysis ~ a dimensionality reduction as well as a classification technique — with applications in document understanding</p>
+
 - [<b>relevance-paradox</b>](https://github.com/sayarghoshroy/relevance-paradox) \| python • spacy
 > <p style="align: justify">Analyzing trends, Demonstrating Simpson's, Berkson's, and Lord's Paradox in real world Natural Language Data</p>
 
