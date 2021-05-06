@@ -19,6 +19,9 @@ aside: true
 - [<b>Multilingual Hate Speech Detection</b>](https://github.com/sayarghoshroy/Hate-Speech-Detection) \| python • pytorch
 > <p style="align: justify">Code for our paper 'Leveraging Multilingual Transformers for Hate Speech Detection' at FIRE 2020</p>
 
+- [<b>Augment4Gains</b>](https://github.com/sayarghoshroy/Augment4Gains) \| python • pytorch
+> <p style="align: justify">Enhancing Hate Speech Detection through Data Augmentation Techniques</p>
+
 - [<b>Acronym Sense Disambiguator</b>](https://github.com/sayarghoshroy/Acronym-Sense-Disambiguator) \| python • nltk
 > <p style="align: justify">Identifies acronyms in a text file and disambiguates possible expansions, where a guided disambiguator module runs queries on an indexed Wikipedia dump</p>
 
