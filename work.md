@@ -158,6 +158,9 @@ aside: true
 - [<b>Linguistics Mine</b>](https://github.com/sayarghoshroy/Linguistics_Mine)
 > <p style="align: justify">Collection of Solved Assignments from various courses related to Linguistics taken at IIIT-H</p>
 
+- [<b>Analysis</b>](https://github.com/sayarghoshroy/Analysis)
+> <p style="align: justify">Problem sets and solutions from Multivariate Analysis</p>
+
 - [<b>Neural and Cognitive Modelling Coursework</b>](https://github.com/sayarghoshroy/Neural_and_Cognitive_Modelling)
 > <p style="align: justify">Multiple experiments and write-ups from the course, ‘Intro to Neural and Cognitive Modeling’</p>
 
