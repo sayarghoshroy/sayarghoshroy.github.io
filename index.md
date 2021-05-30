@@ -15,14 +15,14 @@ aside: true
 
 ##### I am an Undergraduate Researcher
 
-###### @ Information Retrieval and Extraction Lab (iREL) <br><br>
+###### @ Information Retrieval and Extraction Lab ([iREL](irel.iiit.ac.in)) <br><br>
 
->  •  Guided by Prof. Vasudeva Varma and Dr. Manish Gupta <br><br>
->  •  Currently topics of interest: <br><br>
+>  •  Advised by Prof. Vasudeva Varma and Dr. Manish Gupta <br><br>
+>  •  Current topics of interest: <br><br>
 >   → Automatic Text Summarization <br>
 >   → Scientific Discourse Analysis <br>
->   → Fact Salience <br>
->   → Hate Speech Detection
+>   → Hate Speech Detection and Intervention <br>
+>   → Information Popularity and Salience
 
 You can find my resume right [here]({{ site.url }}/assets/Sayar_Resume.pdf).
 
