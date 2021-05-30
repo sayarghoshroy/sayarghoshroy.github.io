@@ -15,7 +15,7 @@ aside: true
 
 ##### I am an Undergraduate Researcher
 
-###### @ Information Retrieval and Extraction Lab ([iREL](irel.iiit.ac.in)) <br><br>
+###### @ Information Retrieval and Extraction Lab ([iREL](https://irel.iiit.ac.in/)) <br><br>
 
 >  •  Advised by Prof. Vasudeva Varma and Dr. Manish Gupta <br><br>
 >  •  Current topics of interest: <br><br>
