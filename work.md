@@ -161,6 +161,9 @@ aside: true
 - [<b>Analysis</b>](https://github.com/sayarghoshroy/Analysis)
 > <p style="align: justify">Problem sets and solutions from Multivariate Analysis</p>
 
+- [<b>JAVA for schools</b>](https://github.com/sayarghoshroy/JAVA_for_schools)
+> <p style="align: justify">High school level programming problems solved using JAVA</p>
+
 - [<b>Neural and Cognitive Modelling Coursework</b>](https://github.com/sayarghoshroy/Neural_and_Cognitive_Modelling)
 > <p style="align: justify">Multiple experiments and write-ups from the course, ‘Intro to Neural and Cognitive Modeling’</p>
 
