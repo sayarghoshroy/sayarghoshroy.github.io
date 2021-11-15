@@ -88,8 +88,6 @@ navigation_header:
   url: /
 - title: My Work
   url: /work/
-- title: Resume
-  url: /assets/Sayar_Resume.pdf
 
 navigation_footer:
 - title: I Love Pandas
@@ -100,4 +98,3 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   GitHub: https://github.com/sayarghoshroy
   facebook: https://www.facebook.com/Sayar.Ghosh.Roy
   email: mailto:sayar.1997@gmail.com
-  # document: ({{ site.url }}/assets/Sayar_Resume.pdf)
