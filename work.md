@@ -153,7 +153,10 @@ aside: true
 ## Created Resources <br><br>
 
 - [<b>Introduction to Deep Learning Tutorial</b>](https://github.com/sayarghoshroy/Intro_to_DL_tutorial)
-> <p style="align: justify">In Summer 2020, I tutored four sessions for prospective researchers joining the Language Technologies Research Centre</p>
+> <p style="align: justify">Teaching Material for Intro to DL Workshop, Summer '20, '21</p>
+
+- [<b>Data Collection & Preprocessing</b>](https://github.com/sayarghoshroy/Data_Collection_Preprocessing)
+> <p style="align: justify">Teaching Material for the 'Data Collection and Preprocessing' course, AMPBA, ISB, 2021</p>
 
 - [<b>Linguistics Mine</b>](https://github.com/sayarghoshroy/Linguistics_Mine)
 > <p style="align: justify">Collection of Solved Assignments from various courses related to Linguistics taken at IIIT-H</p>
