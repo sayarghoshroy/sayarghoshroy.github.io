@@ -13,6 +13,9 @@ aside: true
 
 #### Natural Language Processing <br><br>
 
+- [<b>InfoPopularity</b>](https://github.com/sayarghoshroy/InfoPopularity) \| python • pytorch
+> <p style="align: justify">Code and dataset for our paper, 'Towards Proactively Forecasting Sentence-Specific Information Popularity within Online News Documents' at the 33rd ACM Conference on Hypertext and Social Media (HT '22)</p>
+
 - [<b>Summaformers</b>](https://github.com/sayarghoshroy/Summaformers) \| python • pytorch
 > <p style="align: justify">Code for our paper 'Summaformers @ LaySumm 20, LongSumm 20' at EMNLP 2020, Scholarly Document Processing Workshop'</p>
 
