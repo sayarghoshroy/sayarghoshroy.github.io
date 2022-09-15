@@ -15,12 +15,15 @@ aside: true
 ~
 
 > In July 2022, I graduated top of my class from IIIT Hyderabad with a Bachelor of Technology in Computer Science (with Honors) and an MS in Computational Linguistics.
+
 > At IIIT-H, I was a Student Researcher in the Information Retrieval and Extraction Lab (iREL), Language Technologies Research Center (LTRC), where I was advised by Prof. Vasudeva Varma and Dr. Manish Gupta.
+
 > I also worked part-time as an Applied Research Engineer with Apple, where I designed Machine Learning models to solve specific Natural Language Processing (NLP) & Information Extraction (IE) problems in the space of Apple Maps.
 
 ~
 
 > I have diverse interests, both academic and otherwise & a notable appetite for knowledge. I love helping out as much as possible in any way I can.
+
 > I love Pandas.
 
 ~
